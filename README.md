@@ -14,6 +14,8 @@ From what I understand Code Institute is a little bit different from other schoo
 
 My future goal is to work as a Software Developer. In the mean time I work to develop this craft and hope to find people to work with.
 
+Visit my [Portfolio](https://emmarubih.github.io/Emma-Hjorting-Portfolio/)
+
 
 # My Tech Stack
 
